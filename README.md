@@ -1,1 +1,1 @@
-# gtm-templates
+# Dub Server Tag Template for Google Tag Manager
